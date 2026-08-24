@@ -1,0 +1,185 @@
+
+===== RESUME =====
+
+SHALINI G
+Data Scientist (Fresher)
+Chennai, Tamil Nadu  |  +91 7305663961  |  shalinigopalsami@gmail.com
+linkedin.com/in/shalini-g-950533277   |   github.com/shalini27831
+PROFESSIONAL SUMMARY
+Data Science fresher and Master of Computer Applications (MCA) graduate with a strong academic foundation, including a 
+Gold Medal and First Rank in B.Com (Computer Applications). Skilled in Python, SQL, Power BI, and data wrangling, with 
+hands-on project experience in building a real-time malicious email detection system. Combines strong analytical thinking 
+with practical exposure from an accounting and taxation internship, and is well-positioned to contribute to data-driven 
+decision-making in an entry-level Data Scientist role.
+CAREER OBJECTIVE
+Seeking an entry-level Data Scientist role where I can apply my skills in Python, SQL, and Power BI to analyze data, 
+uncover meaningful insights, and support data-driven decision-making, while continuing to grow as a data science 
+professional.
+SKILLS
+● Programming & Querying: Python, SQL
+● Data Analysis: Pandas, NumPy
+● Data Visualization: Matplotlib, Seaborn, Power BI
+● Machine Learning & NLP: Scikit-learn, Label Encoding, Text Vectorization, Cosine Similarity, RoBERTa
+● Data Handling: Data Inspection and Wrangling
+● Web: HTML
+● Tools: Google Colab, VS Code, Jupyter Notebook, Microsoft Office Suite (Word, Excel, PowerPoint)
+ACADEMIC PROJECT
+EmailDefender: Real-Time Detection of Malicious Emails for Organizational and Personal Communication 
+Security
+● Built a system to identify and flag malicious and phishing emails in real time, aimed at strengthening communication 
+security for both organizations and individuals.
+● Applied Python for data inspection, cleaning, and analysis to support accurate detection of suspicious email patterns.
+INTERNSHIP
+Accounting and Tax Consultant Intern
+● Assisted with day-to-day accounting entries and basic tax computation and filing support under the guidance of senior 
+consultants.
+● Gained practical exposure to financial record-keeping, compliance documentation, and client coordination.
+EDUCATION
+Master of Computer Applications (MCA)  |  2026
+Vels University, Chennai
+B.Com (Computer Applications)  |  2024
+Shrimathi Devkunvar Nanalal Bhatt Vaishnav College for Women, Chennai
+Higher Secondary Certificate (HSC)  |  2021
+Shri Venkateshwara Higher Secondary School
+Secondary School Leaving Certificate (SSLC)  |  2019
+Shri Venkateshwara Higher Secondary School
+CERTIFICATIONS & ACHIEVEMENTS
+● Gold Medalist and First Rank Certificate — B.Com (Computer Applications), Shrimathi Devkunvar Nanalal Bhatt 
+Vaishnav College for Women
+● General Proficiency Certificate (2020) — awarded for outstanding academic performance during HSC
+● Cloud Computing — NPTEL
+● HTML Certification — Gained practical skills in structuring and designing web pages using semantic HTML.
+SOFT SKILLS
+● Analytical Thinking
+● Problem Solving
+● Communication
+● Teamwork
+● Time Management
+
+
+===== PORTFOLIO =====
+
+Shalini G — Data Scientist
+Shalini
+G
+About
+Skills
+Project
+Experience
+Education
+Contact
+Data Scientist · Fresher
+I teach systems to tell
+signal
+from noise.
+MCA graduate from Chennai building practical, data-driven tools — from real-time phishing detection to the analysis behind them. Comfortable across Python, SQL, and Power BI, and ready to bring that to an entry-level data science team.
+Email me
+LinkedIn
+GitHub
+Download Resume ↓
+EmailDefender — live inbox scan
+scanning
+Quarterly Sales Report — Q3 Review
+SAFE
+URGENT: Verify Your Account Immediately
+PHISHING
+Team Lunch — Friday 1 PM
+SAFE
+You Have Won $5,000 — Claim Now
+PHISHING
+Re: Meeting Notes from Client Call
+SAFE
+MODEL: ROBERTA + COSINE SIM
+5 / 5 CLASSIFIED
+01
+About
+Data Science fresher and Master of Computer Applications graduate with a strong academic foundation, including a Gold Medal and First Rank in B.Com (Computer Applications). Skilled in Python, SQL, Power BI, and data wrangling, with hands-on project experience building a real-time malicious email detection system. I combine analytical thinking with practical exposure from an accounting and taxation internship, and I'm looking to bring that mix of rigor and curiosity to an entry-level Data Scientist role.
+2026
+MCA · VELS UNIVERSITY
+Gold Medal
+B.COM · FIRST RANK
+1
+FLAGSHIP ML PROJECT
+Chennai
+TAMIL NADU, INDIA
+02
+Skills
+Programming & Querying
+Python
+SQL
+Data Analysis
+Pandas
+NumPy
+Visualization
+Matplotlib
+Seaborn
+Power BI
+Machine Learning & NLP
+Scikit-learn
+Label Encoding
+Text Vectorization
+Cosine Similarity
+RoBERTa
+Data Handling
+Data Inspection
+Data Wrangling
+Tools
+Google Colab
+VS Code
+Jupyter
+MS Office
+HTML
+03
+Flagship Project
+ACADEMIC PROJECT
+EmailDefender — Real-Time Detection of Malicious Emails
+Built a system to identify and flag malicious and phishing emails in real time, aimed at strengthening communication security for both organizations and individuals.
+Applied Python for data inspection, cleaning, and analysis to support accurate detection of suspicious email patterns.
+Python
+RoBERTa
+Text Vectorization
+Cosine Similarity
+Label Encoding
+04
+Experience
+Accounting and Tax Consultant Intern
+INTERNSHIP
+Assisted with day-to-day accounting entries and basic tax computation and filing support under the guidance of senior consultants.
+Gained practical exposure to financial record-keeping, compliance documentation, and client coordination.
+05
+Education
+2026
+Master of Computer Applications (MCA)
+Vels University, Chennai
+2024
+B.Com (Computer Applications)
+Shrimathi Devkunvar Nanalal Bhatt Vaishnav College for Women, Chennai — Gold Medalist, First Rank
+2021
+Higher Secondary Certificate (HSC)
+Shri Venkateshwara Higher Secondary School
+2019
+Secondary School Leaving Certificate (SSLC)
+Shri Venkateshwara Higher Secondary School
+06
+Certifications & Achievements
+◆
+Gold Medalist and First Rank Certificate — B.Com (Computer Applications), Shrimathi Devkunvar Nanalal Bhatt Vaishnav College for Women
+◆
+General Proficiency Certificate (2020) — awarded for outstanding academic performance during HSC
+◆
+Cloud Computing — NPTEL
+◆
+HTML Certification — structuring and designing web pages using semantic HTML
+Soft Skills
+Analytical Thinking
+Problem Solving
+Communication
+Teamwork
+Time Management
+Let's talk about what data can do for your team.
+shalinigopalsami@gmail.com
++91 73056 63961
+LinkedIn
+GitHub
+Download Resume ↓
+Shalini G · Chennai, Tamil Nadu · Built for the Data Scientist search, 2026.

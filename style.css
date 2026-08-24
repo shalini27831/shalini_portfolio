@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg:#08100f; --panel:#0d1715; --panel2:#111e1b;
+  --line:#20302c; --text:#edf5f2; --muted:#93a7a1;
+  --teal:#55d6bd; --amber:#f5b544;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Space Grotesk",sans-serif;line-height:1.65}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;background-image:linear-gradient(rgba(85,214,189,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(85,214,189,.025) 1px,transparent 1px);background-size:40px 40px}
+.container{width:min(1080px,90%);margin:auto}
+.navbar{position:sticky;top:0;z-index:10;background:rgba(8,16,15,.88);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav-inner{height:70px;display:flex;align-items:center;justify-content:space-between}
+.logo{font-size:21px;font-weight:700;color:var(--text);text-decoration:none}.logo span{color:var(--teal)}
+nav{display:flex;gap:24px}nav a{color:var(--muted);text-decoration:none;font-size:14px}nav a:hover{color:var(--teal)}
+.hero{padding:110px 0 85px}.eyebrow,.label{font:500 12px "JetBrains Mono",monospace;color:var(--teal);letter-spacing:.08em}
+h1{font-size:clamp(42px,7vw,78px);line-height:1.03;max-width:900px;margin:18px 0}
+h1 em{color:var(--amber);font-style:normal}.hero-text{max-width:720px;color:var(--muted);font-size:18px}
+.buttons{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-block;border:1px solid var(--line);padding:10px 16px;border-radius:7px;color:var(--text);text-decoration:none;background:var(--panel)}.btn:hover{border-color:var(--teal)}.btn.primary{background:var(--teal);color:#07110f;border-color:var(--teal)}
+section{padding:75px 0;border-top:1px solid var(--line)}.section-title{display:flex;align-items:center;gap:13px;margin-bottom:30px}.section-title span{font:12px "JetBrains Mono";color:var(--muted)}.section-title h2{font-size:28px;margin:0}.wide{max-width:760px;color:var(--muted);font-size:16px}
+.stats{display:flex;gap:50px;flex-wrap:wrap;margin-top:32px}.stats strong{display:block;color:var(--teal);font-size:25px}.stats small{font:11px "JetBrains Mono";color:var(--muted)}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}.card,.project-card,.role{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:24px}.card h3{font:500 12px "JetBrains Mono";color:var(--muted);text-transform:uppercase}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}.chips span,.soft span{padding:5px 9px;border-radius:6px;background:var(--panel2);border:1px solid var(--line);font-size:12px;color:var(--muted)}
+.project-card{margin-bottom:18px}.project-card h3{font-size:23px;margin:7px 0}.project-card p,.project-card li,.role li{color:var(--muted)}.coming-soon{border-color:#36554d}.status{color:var(--amber)!important;font-family:"JetBrains Mono"}
+.timeline{border-left:1px solid var(--line);padding-left:28px}.timeline>div{position:relative;margin-bottom:30px}.timeline>div:before{content:"";position:absolute;left:-35px;top:7px;width:10px;height:10px;border:2px solid var(--teal);border-radius:50%;background:var(--bg)}.timeline b{font:12px "JetBrains Mono";color:var(--teal)}.timeline h3{margin:4px 0;font-size:17px}.timeline p,.muted{color:var(--muted)}
+.soft{display:flex;gap:9px;flex-wrap:wrap;margin-top:28px}.soft span{background:rgba(85,214,189,.08);color:var(--teal)}
+footer{padding:75px 0 40px;border-top:1px solid var(--line)}footer h2{max-width:600px;font-size:30px}.copyright{color:#52635f;font:11px "JetBrains Mono";margin-top:35px}
+.chat-button{position:fixed;right:25px;bottom:25px;width:58px;height:58px;border:1px solid var(--teal);border-radius:50%;background:var(--panel);color:var(--text);font-size:25px;cursor:pointer;box-shadow:0 8px 30px rgba(0,0,0,.35)}.chat-button:hover{transform:translateY(-2px)}
+@media(max-width:760px){nav{display:none}.hero{padding:80px 0 60px}.stats{gap:25px}section{padding:55px 0}}
